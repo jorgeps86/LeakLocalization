@@ -1,4 +1,4 @@
-Authors
+Authors: 
 Jorge Pesantez, Mohammad Ali Khaksar Fassee, Faisal Alghamdi, Emily Berglund, and G. Mahinthakumar - Dept. Civil, Construction, and Environmental Engineering, NCSU
 Organization of repository
 LILA operates in a sequential way, represented in the following flowchart: flowchart source: underlying work (see section above)
